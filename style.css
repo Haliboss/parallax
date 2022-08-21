@@ -31,10 +31,7 @@ body {
     color: white;
     font-size: 48px;
     line-height: 80px;
-
 }
-
-
 
 .logo {
     background-color: black;
@@ -45,7 +42,6 @@ body {
     outline-offset: 1rem;
     text-transform: uppercase;
     line-height: 4rem;
-
 }
 
 .logo2 {
@@ -67,7 +63,6 @@ body {
     text-align: center;
     line-height: 28px;
     opacity: 0.6;
-
 }
 
 h2 {
@@ -80,7 +75,6 @@ h4 {
     padding-bottom: 24px;
     font-size: 24px;
     font-weight: 600;
-
 }
 
 p {
@@ -121,5 +115,41 @@ p {
 
 .three {
     background-image: url(./img/bg4.jpg);
+}
 
+@media (max-width: 768px) {
+    .one {
+        font-size: 36px;
+        line-height: 60px;
+        background-attachment: scroll;
+    }
+
+    .logo {
+        font-size: 36px;
+        line-height: 60px;
+        background-attachment: scroll;
+    }
+
+    .logo2 {
+        font-size: 36px;
+        line-height: 60px;
+    }
+
+    .white {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .black {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .two {
+        background-attachment: scroll;
+    }
+
+    .three {
+        background-attachment: scroll;
+    }
 }
