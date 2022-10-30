@@ -2,7 +2,7 @@
 
 👨‍💻 The main aim of this project is to create parallax website and improve my <b>HTML/CSS skills and ©️cloning abilities</b>.
 <br><br>
-🎯 parallax is mean, the moving observer perceives nearby objects to be moving faster than distant objects...
+🎯 parallax is mean, the moving observer perceives nearby objects to be moving faster than distant objects.
 
 We tried to build our page on these foundations.
 
